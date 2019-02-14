@@ -21,6 +21,8 @@ provide an easy to use API for them. The library maps specific device models to
 generic device types with well defined capabilities to simplify interacting with
 them.
 
+Get [Air Purifiers 2S](https://mensfeld.pl/2018/11/extracting-the-device-token-from-xiaomi-air-purifier-2s-eu-for-domoticz-usage/) token
+
 Currently supported devices are:
 
 * Air Purifiers (1, 2, 2S and Pro)
