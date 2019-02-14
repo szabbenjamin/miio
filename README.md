@@ -1,7 +1,5 @@
 # miIO Device Library
 
-[![npm version](https://badge.fury.io/js/miio.svg)](https://badge.fury.io/js/miio)
-[![Dependencies](https://david-dm.org/aholstenson/miio.svg)](https://david-dm.org/aholstenson/miio)
 
 Control Mi Home devices that implement the miIO protocol, such as the
 Mi Air Purifier, Mi Robot Vacuum and Mi Smart Socket. These devices are commonly
@@ -25,7 +23,7 @@ them.
 
 Currently supported devices are:
 
-* Air Purifiers (1, 2 and Pro)
+* Air Purifiers (1, 2, 2S and Pro)
 * Mi Humidifier
 * Mi Smart Socket Plug and Power Strips
 * Mi Robot Vacuum (V1 and V2)
